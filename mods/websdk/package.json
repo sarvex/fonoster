@@ -60,7 +60,7 @@
   "gitHead": "e7d1d6d4b29f2e0b4b37a55ea4026931a3f76d1b",
   "dependencies": {
     "@types/axios": "^0.14.0",
-    "axios": "^0.24.0",
+    "axios": "^0.28.0",
     "babel": "^6.23.0",
     "babel-core": "^6.26.3",
     "babel-loader": "^8.2.3"
